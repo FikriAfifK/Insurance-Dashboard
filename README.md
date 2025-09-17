@@ -40,7 +40,7 @@ The goal is to provide insight into product performance, policy distribution, nu
 
 ---
 
-## 🛠️ Technology
+## 🛠️ Tech Stack
 
 - **Power BI** → for data visualization  
 - **Power Query** → for data transformation  
