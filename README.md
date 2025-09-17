@@ -42,7 +42,7 @@ The goal is to provide insight into product performance, policy distribution, nu
 
 ## 🛠️ Technology
 
-- **Power BI Desktop** → for data visualization  
+- **Power BI** → for data visualization  
 - **Power Query** → for data transformation  
 - **DAX** → for aggregate value & ratio calculations  
 
