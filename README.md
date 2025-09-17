@@ -48,7 +48,7 @@ The goal is to provide insight into product performance, policy distribution, nu
 
 ---
 
-💡 Insights from the Dashboard
+##💡 Insights from the Dashboard
 
 - Travel Insurance products generated the highest premiums (0.23B).
 - The highest claims were submitted by the Adult age group, totaling 0.79B.
